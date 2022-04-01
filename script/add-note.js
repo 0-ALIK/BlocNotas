@@ -11,6 +11,8 @@ const text = document.querySelector(".form__textarea")
 const form = document.querySelector(".form")
 const noteCase = document.querySelector(".notas__case")
 
+console.log("Start...")
+
 
 uploadEvents()
 
